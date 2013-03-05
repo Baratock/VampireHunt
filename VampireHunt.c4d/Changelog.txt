@@ -1,0 +1,16 @@
+Mai (version 0.6)
+-Changelog angefangen
+-Wieder die alte Dorfbewohneranzeige
+-Kurze Pause vom Tod bis zur Relaunchfähigkeit (siehe: Seele)
+-Cooldown nach der Verwendung der Schmerzaura
+-Neues Vermehrungssystem für Pflanzen angefangen und eingebaut (siehe: Pilz)
+-Karte wieder brauchbar gemacht, Camping Spots entfernt
+-Einige Stats verändert
+-Ganzen Sichtweiten - und Physicalberechnungskarm abgespeckt -> weniger Lags
+-Neue Rang-und Clonknamen
+-Tests und Bugfixes
+-Bayonette erschaffen
+-Pfeilscripts überarbeiten, da Funktionsnamen jetzt anders
+
+Juni (v 0.6 auf 0.7)
+-Musikbox gemacht und passende Stücke gefunden

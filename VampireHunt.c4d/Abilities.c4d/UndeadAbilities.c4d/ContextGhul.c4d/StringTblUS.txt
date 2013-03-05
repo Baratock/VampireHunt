@@ -1,0 +1,3 @@
+VHMakeSlave=Create slave
+VHMakeGhul=Create ghoul
+VHMakeLich=Create Lich

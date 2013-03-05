@@ -1,0 +1,2 @@
+[Script]
+GlobalNamed=10;lgt_enlightment=i525,lgt_last_lgt_frame=i2058,fFirst=A0,fEnter=A0,daycount=A0,end=A0,SkyAdjustOrig=A0,SkyRed=A0,villagers=A0,aRoles=A0

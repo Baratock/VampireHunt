@@ -1,0 +1,15 @@
+[DefCore]
+id=BRCK
+Name=Rock
+Version=4,6,2
+Category=1
+Width=32
+Height=32
+Offset=-16,-16
+Value=8
+Mass=6
+Components=ROCK=4
+Picture=0,0,32,32
+Vertices=4
+VertexX=-16,16,-16,16
+VertexY=16,-16,-16,16

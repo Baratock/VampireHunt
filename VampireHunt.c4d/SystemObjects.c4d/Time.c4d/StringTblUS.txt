@@ -1,0 +1,3 @@
+DarkWin=The darkness wins.
+twilight=Night falls.|Surviving villagers :%d|´Surviving´ vampires:%d
+dawn=Dawn of the %d. day.|Surviving villagers :%d|´Surviving´ vampires:%d

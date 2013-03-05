@@ -1,0 +1,3 @@
+VHCrazy=Bist du verrückt?
+VHFeelBetter=Euer Status hat sich teilweise erholt
+VHMoreMeat=Menschenfleisch! MEHR!!, %s

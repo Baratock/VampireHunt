@@ -1,0 +1,61 @@
+--------------------------------------------------------------------------------------
+
+1.Erstellen neuer Szenarien
+
+Ein spielbares Szenario für Vampire Hunt sollte nur einem gewissen Grundaufbau
+folgen, ansonsten sind der Kreativität des Entwicklers keine Grenzen gesetzt:
+
+1.1 Technisches
+Im Script des Szenarios müssen die Funktionen aus der Vorlage "Tal des Blutes"
+(oder ein funktionierender Ersatz) zu finden sein.
+In den Bauplänen der Spieler müssen die wählbaren Berufe aufgelistet werden.
+Es ist anzuraten, den Boden nicht abgrabbar zu gestalten.
+
+1.2 Spielerisches
+-Sonnensicheres Lager für den Vampir
+-Eine sichere, aber nicht völlig abschottbare Stadt
+-Die von den Berufen vorrausgesetzten Gebäude
+-Wenn möglich regenerative Quellen für Erz, Kohle, Holz und Schwefel
+
+--------------------------------------------------------------------------------------
+
+2.Erstellen neuer Objekte
+
+Dies erfordert etwas technisches Knowhow.
+
+Alle Objekte sind durch Tags gekennzeichnet, durch die der Script sie einordnen
+und verarbeiten kann.
+
+Beispiel aus dem Schwert:
+
+/* Ist eine Handwaffe */
+public func IsFightWeapon()
+{
+  return(1);
+}
+
+Das Schwert wird vom Clonk also als Nahkampfwaffe verwendet. Sieht man sich den Script
+des Schwerts an, findet man auch noch die Funktionen HitEffect(),MeleeEffect() und
+BounceOff(). Hit Effect wird aufgerufen, wenn das Schwert einen Clonk trifft, nachdem
+es geworfen wurde, BounceOff bei einem Wand oder Bodentreffer und MeleeEffect wenn
+der Clonk einen anderen mit der Waffe schlägt. Weitere Funktionen geben den Schaden und
+die Schlaggeschwindigkeit an.
+Ein ähnliches System findet sich auch bei Tränken.
+
+Ein neues Objekt kann also leicht vom Original abgeleitet werden, indem man diese
+Funktionen abändert. Essentiell sind doch nur wenige grundlegende Eigenschaften (die
+Tags), also ist es erfahrenen Spielern auch möglich gänzlich neue Waffenarten zu 
+entwickeln.
+
+Natürlich braucht ein neues Objekt auch eine ordentliche Graphik...
+
+--------------------------------------------------------------------------------------
+
+Modifizierte und neu erstellte Objekte und Szens nehme ich (nach eigenem Ermessen)
+gerne ins Pack mit auf. Die Autoren werden natürlich in der Beschreibung und auf dem
+CCAN genannt. wer interresse an einer längeren Mitarbeit hat, mail an
+
+valentin.kroner@gmx.de
+
+Vielen Dank für eure aufmerksamkeit
+Valle

@@ -1,0 +1,16 @@
+[DefCore]
+id=_TOR
+Name=Torch
+Version=4,9,5,2
+Category=1
+Value=11
+Mass=10
+Components=WOOD=1;METL=1
+Width=14
+Height=26
+Offset=-7,-13
+Vertices=3
+VertexX=0,-1,1
+VertexY=-2,13,13
+VertexFriction=10,10,10
+Grab=1

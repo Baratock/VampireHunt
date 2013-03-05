@@ -1,0 +1,3 @@
+DarkWin=Die Finsternis siegt.
+twilight=Die Nacht bricht herein.|Überlebende Dorfbewohner:%d|´Überlebende´ Vampire:%d
+dawn=Dämmerung des %d. Tages.|Überlebende Dorfbewohner:%d|´Überlebende´ Vampire:%d

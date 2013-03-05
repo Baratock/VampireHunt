@@ -1,0 +1,1 @@
+Makes night follow day, also provides the game goal and a weather engine.

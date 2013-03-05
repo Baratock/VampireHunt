@@ -1,0 +1,7 @@
+[DefCore]
+id=M_RE
+Name=Kontext Regeneration
+Category=1
+Picture=0,0,35,35
+PictureFE=0,0,35,35
+ 

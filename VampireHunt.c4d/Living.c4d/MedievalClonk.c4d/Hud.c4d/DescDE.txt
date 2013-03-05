@@ -1,0 +1,1 @@
+Zeigt die einzelnen Werte des Clonks.

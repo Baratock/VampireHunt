@@ -1,0 +1,16 @@
+[DefCore]
+id=_EDG
+Name=Edge
+Version=4,9,5,3
+Category=16777217
+Width=10
+Height=10
+Offset=-5,-5
+Value=1
+Mass=10
+Components=ROCK=1;
+Picture=0,0,10,10
+Vertices=0
+TimerCall=Timer
+Timer=10
+ 

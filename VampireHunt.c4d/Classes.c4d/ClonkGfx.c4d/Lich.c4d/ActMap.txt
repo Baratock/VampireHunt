@@ -1,0 +1,5 @@
+[Action]
+Name=AimMagic
+Length=10
+Facet=0,505,24,20
+

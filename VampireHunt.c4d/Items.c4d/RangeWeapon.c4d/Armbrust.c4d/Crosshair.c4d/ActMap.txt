@@ -1,0 +1,16 @@
+[Action]
+Name=Crosshair
+Procedure=ATTACH
+Length=1
+Delay=1
+FacetBase=1
+NextAction=Crosshair
+StartCall=Check
+
+[Action]
+Name=CrosshairNoCheck
+Procedure=FLOAT
+Length=1
+Delay=0
+FacetBase=1
+NextAction=CrosshairNoCheck

@@ -1,0 +1,9 @@
+[DefCore]
+id=_ETG
+Name=Extinguisher
+Category=524289
+Width=1
+Height=1
+Picture=0,0,64,64
+TimerCall=Check
+Timer=5

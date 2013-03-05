@@ -1,0 +1,2 @@
+DE:Wächter
+US:Guard

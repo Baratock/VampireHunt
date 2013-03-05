@@ -1,0 +1,6 @@
+Unholy=Du hast nicht das Recht ins Leben zurückzukehren, unheilige Kreatur! Hilf deinem Meister, dem Vampir.
+Attempt=Netter Versuch...
+nbdy=Niemand von euch wird länger leben.
+Dazed=Ihr seid noch ganz benommen vom Tod, gebt eurer Seele etwas Ruhe.
+Force=Die Kraft des Scripters ist verbraucht, d.h. er hat keine Lust mehr dich wiederzubeleben.
+re=Verbleibende Relaunches: %d

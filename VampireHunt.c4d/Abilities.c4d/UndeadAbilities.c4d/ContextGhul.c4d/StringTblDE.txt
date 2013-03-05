@@ -1,0 +1,3 @@
+VHMakeSlave=Sklave erschaffen
+VHMakeGhul=Ghul erschaffen
+VHMakeLich=Lich erschaffen

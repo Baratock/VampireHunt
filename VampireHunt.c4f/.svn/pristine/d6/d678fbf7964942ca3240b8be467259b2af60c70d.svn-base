@@ -1,0 +1,5 @@
+[Action]
+Name=Remain
+Length=1
+Facet=0,0,40,26
+NextAction=Hold

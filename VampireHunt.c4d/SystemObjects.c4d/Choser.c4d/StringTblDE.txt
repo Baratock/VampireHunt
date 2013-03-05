@@ -1,0 +1,4 @@
+WaitMsg=Wartet bis ihr dran seid, %s wählt gerade.
+MethodeElection=Den Vampir demokratisch wählen?
+NoRoleChange=Man kann seine Rolle nichtmehr verändern?
+Rdy=Fertig?

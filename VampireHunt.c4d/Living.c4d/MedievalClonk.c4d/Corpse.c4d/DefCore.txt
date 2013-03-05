@@ -1,0 +1,15 @@
+[DefCore]
+id=CP_2
+Name=ClonkCorpse
+Version=4,9,5
+Category=4
+Width=16
+Height=6
+Offset=-8,-3
+Value=10
+Mass=40
+Components=_NEW=1;
+Vertices=4
+VertexX=-7,7,-7,7
+VertexY=2,2,-2,-2
+VertexFriction=20

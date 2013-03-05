@@ -1,0 +1,3 @@
+VHCrazy=Are you crazy? That´s your master!
+VHFeelBetter=You feel better
+VHMoreMeat=Meat! MORE OF IT!!, %s

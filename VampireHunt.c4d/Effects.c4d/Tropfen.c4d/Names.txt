@@ -1,0 +1,2 @@
+DE:Tropfen
+US:Drop

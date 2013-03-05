@@ -1,0 +1,6 @@
+Methode1="Random vamp"
+Methode2="Elected vamp"
+VampA="Do you want to become a vampire?"
+Y="Yes"
+N="No"
+Vote="Vote for someone, who would become a good vampire!"

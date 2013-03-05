@@ -1,0 +1,7 @@
+[Material]
+Name=WallFlat
+Color=62,50,0,62,60,0,86,72,0
+Shape=0
+Placement=5
+TextureOverlay=Flat
+OverlayType=1

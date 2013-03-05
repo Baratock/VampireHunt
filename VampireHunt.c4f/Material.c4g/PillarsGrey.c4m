@@ -1,0 +1,7 @@
+[Material]
+Name=PillarsGrey
+Color=62,50,0,62,60,0,86,72,0
+Shape=2
+Placement=5
+TextureOverlay=Pillars2
+OverlayType=1

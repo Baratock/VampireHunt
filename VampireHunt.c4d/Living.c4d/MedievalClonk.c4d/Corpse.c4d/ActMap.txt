@@ -1,0 +1,8 @@
+[Action]
+Name=Headless
+Procedure=NONE
+Directions=2
+Length=1
+Delay=5000
+Facet=20,0,36,7
+NextAction=Walk

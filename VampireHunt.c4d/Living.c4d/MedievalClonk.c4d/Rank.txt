@@ -1,0 +1,17 @@
+# Rangsystem für Ritter
+# Basiserfahrung - noch nicht unterstützt!
+# Nicht benutzen!
+# Base=1000
+
+# Rangnamen
+Kämpfer
+Erfahrener Kämpfer
+Veteran
+Krieger
+Erfahrener Krieger
+Kriegsveteran
+Anführer
+Erfahrener Anführer
+Lord
+Graf
+Nemesis

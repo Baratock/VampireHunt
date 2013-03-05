@@ -1,0 +1,6 @@
+Ein Lich, genauso Untot wie sein Meister, dem Vampir. Nur das er vorallem auf die Künste der Magie spezialisiert ist.
+
+Magietyp: Blut
+Maximales Blut: 300
+Leben: 120
+Schmerzgrenze: 150

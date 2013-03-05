@@ -1,0 +1,14 @@
+Ein Pack über den Kampf zwischen lebendig und untot.
+
+Dieser manifestiert sich meist in abgelegenen Siedlungen nahe ominösen Burgen.
+Jeder Clonk hat spezielle Fähigkeiten, Zauber und Waffen, aber einem einzelnen ist es kaum
+möglich, den nächtlichen Angriffen des Vampirs zu wiederstehen.
+Außerdem ist nicht jeder Dörfler immer das, was er zu sein scheint...
+
+Hauptverdächtiger:
+ Valle (Scripts und Konzept)
+
+Mitschuldige:
+ Speed (Graphiken)
+ Silent.at (Kritiker und Scripter)
+ Killfrog (Tester und Kritiker)

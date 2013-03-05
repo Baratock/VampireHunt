@@ -1,0 +1,2 @@
+DE:Fernkampfwaffen
+US:Long range weapon

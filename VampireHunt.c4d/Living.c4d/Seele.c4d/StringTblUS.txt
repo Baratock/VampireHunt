@@ -1,0 +1,6 @@
+Unholy=You aren´t allowed to return to live unholy creature! Help your master the vampire!
+Attempt=Nice attempt...
+nbdy=Nobody of you will live longer!
+Dazed=You are dazed because of your death! First you have to rest a while!
+Force=The scripter is fed up with you!|(meaning, you haven't got any relunchs)
+re=Remaining relaunches: %d

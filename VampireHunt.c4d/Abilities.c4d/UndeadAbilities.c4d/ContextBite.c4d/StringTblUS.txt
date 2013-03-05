@@ -1,0 +1,1 @@
+VHDrinkBlood=You drink %d ml blood out of %s´s wires

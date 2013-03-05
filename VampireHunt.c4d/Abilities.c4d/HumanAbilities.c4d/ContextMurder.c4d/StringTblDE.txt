@@ -1,0 +1,1 @@
+VHNotAble=Mit %s geht das nicht!

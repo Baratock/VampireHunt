@@ -1,0 +1,6 @@
+[Action]
+Name=Roll
+Length=1
+Delay=1
+Facet=37,0,37,37
+NextAction=Roll

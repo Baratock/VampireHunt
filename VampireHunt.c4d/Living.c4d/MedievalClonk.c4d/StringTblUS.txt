@@ -1,0 +1,112 @@
+# Context Descs
+CtxAttackDesc=Attack
+CtxDefendDesc=Defend
+CtxGuardDesc=Guard
+CtxArmDesc=Arm
+CtxUnbuckleDesc=Unbuckle
+CtxNoItemsToUnbuckle=No items buckled
+CtxUnbuckleItem=Unbuckle %s
+CtxAntiSleep=Last force
+
+# Control Descs
+CtrlInventoryDesc=Shift inventory
+CtrlActivateDesc=Unbuckle
+
+# Messages
+MsgWatch=%d o'clock and all's %s.
+MsgWatchStateWell=well
+MsgWatchStateBad=arrrrrgghhhh
+MsgNoEnemy=No attack target!
+MsgNoArrow=No Arrow!
+MsgNoSpear=D'oh! No spear!
+MsgNoWeapons=Ugh! No weapons.
+MsgArmed=I'm armed.
+MsgEnemyDeath=%s exterminated.
+MsgEnemyHostChanged=%s is|now confederated.
+
+# VHStrings
+VHPain=Pain: %d/%d|
+VHTiredness=Tiredness: %d/%d|
+VHHunger=Hunger: %d/1000|
+VHLsotBlood=Loss of blood: %d/80
+
+VHDoping=doping with %s
+VHDoped=You put %s on the %s.
+VHCtxDope=Doping weapon
+
+VHCtxAlchem=Alchemy
+VHProduce=Produce: %s
+VHNotEnough=Not enough %s
+
+VHCtxFillBlood=Fill a bloodbottle
+VHFillBlood=You pour 25 ml of your blood in a bottle
+
+VHCtxInvisible=Get Invisible
+VHCtxVisible=Get Visible
+
+VHCtxHeal=Regeneration
+VHCtxHealOff=Regeneration off
+
+VHKill=Kill
+VHNotAble=It´s impossible to do it with %s!
+
+VHGuard=Guard
+VHStopGuarding=Stop guarding
+
+VHDash=sprint
+
+VHAbility=Skills
+
+VHMakeSlave=Create slave
+VHMakeGhul=Create ghoul
+VHMakeLich=Create Lich
+VHMadeSlave=You put %s into your server!
+VHToMuchSlaves=Only can you transform a quart of the citiziens, for more you aren't strong enough...
+VHToMuchSlaves1=You are not allowed to put more players into your slaves! (Only four ghouls are enabled)
+VHToMuchSlaves2=You are not allowed to put more players into your slaves! (If the player count is nine or ten then there are only three ghouls enabled)
+VHToMuchSlaves3=You are not allowed to choose more players into your slaves! (If the player count is seven or eight then there are only two ghouls enabled)
+VHToMuchSlaves4=You are not allowed to put more players into your slaves! (If the player count is five or six then there is only one ghoul enabled)
+VHNoSlaves=You aren´t able to make servents!! (if the player count is less than 5 then there are no ghouls enabled)
+VHNewLife=%s rescured your life! Serve him and don´t disappoint him!
+
+VHCtxCheck=Check
+VHCheckBlood1=|Slight miss of blood
+VHCheckBlood2=|Big miss of blood
+VHCheckPains1=|He has got pains
+VHCheckPains2=|He has got much pains
+VHCheckGhul=|and he is a ghoul
+VHCheckName=This is %s.%s%s%s
+
+VHEat=Guzzle
+VHCrazy=Are you crazy? That´s your master!
+VHFeelBetter=You feel better
+VHMoreMeat=Meat! MORE OF IT!!, %s
+
+VHSuckBlood=suck blood
+VHDrinkBlood=You drink %d ml blood out of %s´s wires
+
+VHPainAura=Aura of Pains
+
+VHRide=Ride
+
+VHPureWill=Pure Will
+VHDontGiveUp1=I...have...to...continue!
+VHDontGiveUp2=It is not over!
+VHDontGiveUp3=ARGH...
+
+VHFormChange=change Form
+
+VHSacrifice=Bloodsacrifice
+VHAbortSacrifice=Abort Bloodsacrifice
+
+VHCtxDreamEater=Dreameater
+
+VHDarkAura=Aura of Darknes
+VHAbortDarkAura=Abort Aura of Darknes
+
+VHLayDown=Lay Down
+VHSleep=Ahhhh... wonderful.
+VHWhat=hm.. what is?
+VHStandUp=Stand up
+
+VHHumanFood=Ugh... human food!

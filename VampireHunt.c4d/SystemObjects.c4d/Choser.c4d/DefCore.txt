@@ -1,0 +1,12 @@
+[DefCore]
+id=VHRG
+Version=4,9,5
+Name=VampireHuntRoleGiver
+Category=1
+MaxUserSelect=1
+Width=1
+Height=1
+Value=1
+Picture=0,0,64,64
+PictureFE=0,0,64,64
+ 

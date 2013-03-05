@@ -1,0 +1,9 @@
+[Action]
+Name=Exist
+Procedure=NONE
+Directions=4
+Facet=0,0,14,14
+NextAction=Exist
+StartCall=Existing
+Delay=100
+Length=1

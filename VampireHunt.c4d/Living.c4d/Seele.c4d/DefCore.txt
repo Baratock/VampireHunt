@@ -1,0 +1,17 @@
+[DefCore]
+id=SELE
+Name=Seele
+Category=4
+Width=16
+Height=21
+Offset=-8,-10
+Picture=0,0,16,21
+Rotate=1
+StretchGrowth=1
+Oversize=1
+IncompleteActivity=1
+NeededGfxMode=1
+CrewMember=1
+
+[Physical]
+Float=300

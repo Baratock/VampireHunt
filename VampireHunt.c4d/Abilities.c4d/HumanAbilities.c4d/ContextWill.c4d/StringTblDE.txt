@@ -1,0 +1,3 @@
+VHDontGiveUp1=Muss.... weiter.... machen!
+VHDontGiveUp2=Es ist noch nicht vorbei!
+VHDontGiveUp3=ARGH...

@@ -1,0 +1,7 @@
+VHCheckBlood1=|Leichter Blutverlust.
+VHCheckBlood2=|Massiver Blutverlust.
+VHCheckPains1=|Hat offenbar Schmerzen...
+VHCheckPains2=|Hat offenbar starke Schmerzen.
+VHCheckClass=|Er ist ein %s.
+VhCheckItems=|Dazu trägt er %s
+VHCheckName=%s%s%s%s

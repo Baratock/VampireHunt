@@ -1,0 +1,1 @@
+VHDrinkBlood=Ihr trinkt %d ml Blut aus %s´s Adern

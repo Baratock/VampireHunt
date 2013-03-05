@@ -1,0 +1,11 @@
+[DefCore]
+id=WCHR
+Name=Crosshair
+Version=4,9,5
+Value=0
+Category=58720257
+Width=7
+Height=7
+Offset=-3,-3
+Vertices=1
+Picture=0,0,7,7

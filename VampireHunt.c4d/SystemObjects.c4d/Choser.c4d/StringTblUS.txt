@@ -1,0 +1,4 @@
+WaitMsg=Please be patient, at the moment %s is choosing his role.
+MethodeElection=Do you want to elect the vampire?
+NoRoleChange=You can't change your role.
+Rdy=Are you ready?

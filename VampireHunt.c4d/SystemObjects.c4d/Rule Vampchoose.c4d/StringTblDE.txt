@@ -1,0 +1,6 @@
+Methode1="Per Zufall Vamp"
+Methode2="Per Wahlen Vamp"
+VampA="Möchtest du Vampir werden?"
+Y="Ja"
+N="Nein"
+Vote="Wählt den, den ihr für würdig erachtet, Vampir zu sein!"

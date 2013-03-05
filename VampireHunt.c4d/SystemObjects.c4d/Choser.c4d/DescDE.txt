@@ -1,0 +1,1 @@
+Verteilt die Clonks auf die Verfügbaren Rollen im Spiel.

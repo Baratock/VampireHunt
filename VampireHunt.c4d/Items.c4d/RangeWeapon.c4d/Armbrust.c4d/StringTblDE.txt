@@ -1,0 +1,1 @@
+CtrlActivateDesc=Armbrust einsetzen

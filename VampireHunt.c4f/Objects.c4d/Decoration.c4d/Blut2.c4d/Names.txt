@@ -1,0 +1,2 @@
+DE:Blut2
+US:Blood2

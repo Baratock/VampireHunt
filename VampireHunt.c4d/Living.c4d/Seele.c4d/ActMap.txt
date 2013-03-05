@@ -1,0 +1,8 @@
+[Action]
+Name=Fly
+Procedure=FLOAT
+Facet=0,0,16,21
+Length=8
+Delay=4
+Directions=2
+NextAction=Fly

@@ -1,0 +1,15 @@
+[Action]
+Name=Rain
+Length=1
+Delay=1
+Facet=0,0,1,1
+StartCall=CrRain
+NextAction=Rain
+
+[Action]
+Name=Hail
+Length=1
+Delay=1
+Facet=0,0,1,1
+StartCall=CrHail
+NextAction=Hail
