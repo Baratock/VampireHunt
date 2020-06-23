@@ -1,7 +1,0 @@
-VHCheckBlood1=|Slight miss of blood
-VHCheckBlood2=|Big miss of blood
-VHCheckPains1=|He has got pains
-VHCheckPains2=|He has got much pains
-VHCheckClass=|He ist a %s.
-VhCheckItems=|He has %s
-VHCheckName=%s%s%s%s

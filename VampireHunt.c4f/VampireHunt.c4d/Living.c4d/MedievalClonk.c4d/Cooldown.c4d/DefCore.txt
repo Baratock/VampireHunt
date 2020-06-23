@@ -1,0 +1,9 @@
+[DefCore]
+id=P_PB
+Version=4,9,5
+Name=Cooldown
+Category=1
+Picture=0,0,64,64
+PictureFE=0,0,64,64
+TimerCall=Check
+Timer=100

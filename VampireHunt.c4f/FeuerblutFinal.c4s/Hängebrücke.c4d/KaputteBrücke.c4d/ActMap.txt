@@ -1,0 +1,7 @@
+[Action]
+Name=Hang
+Procedure=NONE
+Length=1
+Delay=0
+Facet=20,0,20,40
+NextAction=Hang

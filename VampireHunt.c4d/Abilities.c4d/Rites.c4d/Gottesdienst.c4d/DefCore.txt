@@ -1,7 +1,0 @@
-[DefCore]
-id=PR_G
-Version=4,9,5
-Name=Gottesdienst
-Category=1
-Picture=0,0,64,64
-PictureFE=0,0,64,64

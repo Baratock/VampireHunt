@@ -1,0 +1,6 @@
+Ein untoter Clonk, der anderen das Blut aussaugt und folglich nicht sehr beliebt ist...
+
+Magietyp: Blut
+Maximales Blut: 200
+Leben: 180
+Schmerzgrenze: 190

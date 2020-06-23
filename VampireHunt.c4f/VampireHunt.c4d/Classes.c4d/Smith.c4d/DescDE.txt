@@ -1,0 +1,5 @@
+Ein Hersteller vieler Waffen
+
+Magietyp: Keine
+Leben: 105
+Schmerzgrenze: 105

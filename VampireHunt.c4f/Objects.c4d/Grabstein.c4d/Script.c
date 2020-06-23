@@ -2,7 +2,7 @@
 
 #strict
 
-public func Initialize()
-{
-	return 1;
+func Initialize() {
+   
+  return(1);
 }

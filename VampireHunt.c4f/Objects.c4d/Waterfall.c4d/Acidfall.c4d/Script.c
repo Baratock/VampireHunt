@@ -2,8 +2,7 @@
 
 #strict
 
-protected func Acid()
-{
-	CastPXS("Acid", 2, 2);
-	return 1;
+protected func Acid() {
+  CastPXS("Acid", 2, 2);
+  return(1);
 }

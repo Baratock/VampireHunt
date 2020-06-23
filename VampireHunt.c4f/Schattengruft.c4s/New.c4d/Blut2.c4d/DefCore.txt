@@ -1,0 +1,17 @@
+[DefCore]
+id=BLO2
+Name=Blut2
+Version=4,9,5
+Category=1
+MaxUserSelect=10
+Width=45
+Height=45
+Offset=9,-64
+Mass=5
+Picture=7,0,64,64
+Vertices=1
+VertexY=1
+VertexFriction=25
+Collectible=0
+Rotate=0
+Oversize=1

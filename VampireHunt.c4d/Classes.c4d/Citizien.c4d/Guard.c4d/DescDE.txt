@@ -1,6 +1,0 @@
-Der Wächter ist der stärkste Kämpfer einer Gemeinde, aber gleichzeitig nicht sehr wehrhaft gegen übernatürliche Attacken.
-
-Magietyp: Wille
-Mana: 20
-Leben: 120
-Schmerzgrenze: 150

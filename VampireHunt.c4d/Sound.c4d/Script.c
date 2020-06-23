@@ -1,3 +1,0 @@
-/*-- Sounds --*/
- 
-#strict 2

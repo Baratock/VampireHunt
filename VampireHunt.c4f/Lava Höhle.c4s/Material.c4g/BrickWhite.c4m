@@ -1,0 +1,8 @@
+[Material]
+Name=BrickWhite
+Color=192,176,152,176,176,176,176,176,176
+Shape=0
+Density=50
+Placement=60
+TextureOverlay=Flat
+OverlayType=1

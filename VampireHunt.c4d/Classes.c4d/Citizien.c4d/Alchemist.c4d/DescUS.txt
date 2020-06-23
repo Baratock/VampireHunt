@@ -1,5 +1,0 @@
-An alchemist, which can heals his partners.
-Magic: Will
-Mana: 10
-Live: 90
-Painlimit: 90

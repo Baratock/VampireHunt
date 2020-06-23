@@ -1,0 +1,6 @@
+Der Förster lebt meißt außerhalb der Stadt, hat eine robuste Gesundheit und beherrscht grundlegende alchemische Fähigkeiten.
+
+Magietyp: Wille
+Mana: 20
+Leben: 170
+Schmerzgrenze: 110

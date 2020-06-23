@@ -1,0 +1,15 @@
+[DefCore]
+id=KB__
+Name=KaputteBrücke
+Category=1
+Value=0
+Mass=250
+Components=ROCK=10;
+Width=20
+Height=40
+Offset=-10,-20
+Picture=0,20,40
+Vertices=1
+VertexX=0
+VertexY=18
+VertexFriction=100

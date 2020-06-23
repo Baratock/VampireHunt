@@ -1,0 +1,8 @@
+[Material]
+Name=BrickOld
+Color=120,100,88
+Shape=0
+Density=50
+Placement=60
+TextureOverlay=BrickOld
+OverlayType=1

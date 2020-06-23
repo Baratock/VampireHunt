@@ -1,0 +1,8 @@
+[Action]
+Name=Fly
+Procedure=FLOAT
+Length=1
+Delay=40
+FacetBase=1
+NextAction=Fly
+EndCall=Timer

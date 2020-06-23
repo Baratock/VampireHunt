@@ -1,0 +1,28 @@
+Objektgestaltung:
+
+Sven Eberhardt (SvenSoft@gmx.de)
+Grafiken, Scripte
+
+Johannes Rueth (no.dr@firemail.de)
+GWE3-Validierung, Grafik, Bugfixing und kleinere Verbesserungen
+
+
+---
+Änderungen(Sven möge mir verzeihen):
+-Clonks(und ihre Pferde) passen problemlos unter das Tor
+-die Schlösser verrutschen nicht mehr
+-Tor zur einfacheren Erkennung dunkler gestrichen
+-Schlüsselgrafik verschönert
+-Schlüsselvariation auf 15 runtergeschraubt
+-Schlüssel kauf/baubar (für 1337e Taktiken und so)
+-Baudauer verlängert
+-Ids verändert
+-Burgbauplan Zusatz
+-Andere Kleinigkeiten, die aber kaum auffallen
+
+V1.2
+-GWE4 Grafiken
+
+Falls dieses Objekt in irgendein Paket kommen soll, werde ich nochmal das Script optimieren
+und das ControlTransfer-Zeugs verbessern.
+Fragt mich einfach mal.

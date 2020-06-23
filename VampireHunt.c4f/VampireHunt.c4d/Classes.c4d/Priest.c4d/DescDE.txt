@@ -1,0 +1,7 @@
+Der Priester kann eine vielzahl unterstützender Rituale vollziehen, ist jedoch nicht sehr wiederstandsfähig und mäßig gut bewaffnet.
+
+Magietyp: Glaube
+Mana: 70
+Leben: 105
+Schmerzgrenze: 95
+Spezialfähigkeit: Bayonette

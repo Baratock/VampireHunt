@@ -1,0 +1,6 @@
+Ein durchschnittlicher Clonk ohne Besondere Fähigkeiten oder Kenntnisse...
+
+Magietyp: Wille
+Mana: 15
+Leben: 110
+Schmerzgrenze: 120

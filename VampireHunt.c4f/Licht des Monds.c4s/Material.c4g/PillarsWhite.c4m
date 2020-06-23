@@ -1,0 +1,7 @@
+[Material]
+Name=PillarsWhite
+Color=138,128,108,128,128,128,128,128,128
+Shape=2
+Placement=5
+TextureOverlay=Pillars2
+OverlayType=1

@@ -1,7 +1,0 @@
-[DefCore]
-id=J_GH
-Version=4,9,5
-Name=JobGhul
-Category=C4D_StaticBack
-Picture=0,0,64,64
-PictureFE=0,0,64,64

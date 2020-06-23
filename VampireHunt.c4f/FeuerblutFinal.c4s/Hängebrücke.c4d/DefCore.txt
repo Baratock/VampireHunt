@@ -1,0 +1,13 @@
+[DefCore]
+id=_BRD
+Name=Bridge
+Category=1
+Width=193
+Height=40
+Offset=-96,-20
+Value=100
+Mass=100
+Components=WOOD=20;
+Picture=0,0,193,40
+TopFace=0,0,193,40
+SolidMask=0,40,193,40

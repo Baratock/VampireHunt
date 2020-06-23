@@ -1,0 +1,4 @@
+Der Vampirjäger.
+
+Leben: 110
+Schmerzgrenze: 120

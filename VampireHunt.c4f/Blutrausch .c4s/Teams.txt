@@ -1,23 +1,25 @@
 [Teams]
-AllowHostilityChange=0
-AllowTeamSwitch=0
-TeamColors=1
+LastTeamID=3
+TeamColors=true
 
-	[Team]
-	id=1
-	Name=$TeamLeft$
-	IconSpec=KTM1:0
-	PlrStartIndex=1
+  [Team]
+  id=1
+  Name=Links
+  PlrStartIndex=1
+  Color=15990784
+  IconSpec="KTM1:0"
 
-	[Team]
-	id=2
-	Name=$TeamRight$
-	IconSpec=KTM1:1
-	PlrStartIndex=2
+  [Team]
+  id=2
+  Name=Rechts
+  PlrStartIndex=2
+  Color=51200
+  IconSpec="KTM1:1"
 
-	[Team]
-	id=3
-	Name=$Vamp$
-	IconSpec=KTM:2
-	PlrStartIndex=3
-	MaxPlayer=1
+  [Team]
+  id=3
+  Name=Vampir
+  PlrStartIndex=3
+  Color=16577564
+  IconSpec="KTM:2"
+  MaxPlayer=1

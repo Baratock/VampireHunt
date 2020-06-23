@@ -1,0 +1,17 @@
+[DefCore]
+id=NEBL
+Name=Nebel
+Version=4,9,5
+Category=4
+MaxUserSelect=10
+Width=200
+Height=50
+Offset=-100,-25
+Value=0
+Mass=1
+Picture=0,0,1,1
+Float=1
+TopFace=0,0,200,50,0,0
+
+[Physical]
+Float=100

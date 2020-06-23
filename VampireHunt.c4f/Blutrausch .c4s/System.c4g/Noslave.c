@@ -4,9 +4,6 @@
 
 #appendto M_GH
 
-public func IsAbility()
-{
-	return false;
-}
+public func IsAbility(){ return false; }
 
 

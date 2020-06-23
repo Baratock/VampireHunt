@@ -1,0 +1,6 @@
+VHCheckBlood1=|Leichter Blutverlust.
+VHCheckBlood2=|Massiver Blutverlust.
+VHCheckPains1=|Hat offenbar Schmerzen...
+VHCheckPains2=|Hat offenbar starke Schmerzen.
+VHCheckGhul=|Und er ist ein Ghoul.
+VHCheckName=Es ist %s.%s%s%s

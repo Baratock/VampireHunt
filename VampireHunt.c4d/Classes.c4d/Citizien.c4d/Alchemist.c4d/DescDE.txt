@@ -1,6 +1,0 @@
-Ein Alchemist, der seine Kameraden heilen kann.
-
-Magietyp: Wille
-Mana: 10
-Leben: 90
-Schmerzgrenze: 90

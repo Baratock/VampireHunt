@@ -1,0 +1,8 @@
+[Material]
+Name=BrickSand
+Color=224,200,140,224,212,136,236,232,148
+Shape=0
+Density=50
+Placement=60
+TextureOverlay=BrickSand
+OverlayType=1
